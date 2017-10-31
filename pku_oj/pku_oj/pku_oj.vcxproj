@@ -18,12 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="id_1000.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="id_1000_illustration.txt" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{C3228600-96D7-47A0-BC92-B7BD75C3F227}</ProjectGuid>
