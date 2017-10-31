@@ -1,0 +1,26 @@
+Input
+
+The input consists of one or more test cases, followed by a line containing the number 0.00 that 
+signals the end of the input. 
+Each test case is a single line containing a positive floating-point number c 
+whose value is at least 0.01 and at most 5.20; c will contain exactly three digits.
+
+Output
+
+For each test case, output the minimum number of cards necessary to achieve an overhang of 
+at least c card lengths. Use the exact output format shown in the examples.
+
+Sample Input
+
+1.00
+3.71
+0.04
+5.19
+0.00
+
+Sample Output
+
+3 card(s)
+61 card(s)
+1 card(s)
+273 card(s)
