@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="id_1005.cpp">
+    <ClCompile Include="id_1007.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="id_1005_illustration.txt">
+    <Text Include="id_1007_illustration.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
