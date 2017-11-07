@@ -19,10 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="id_1007.cpp" />
+    <ClCompile Include="id_1008.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="id_1007_illustration.txt" />
+    <Text Include="id_1008_illustration.txt" />
+    <Text Include="id_1008_review.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
