@@ -17,7 +17,7 @@ ok, chuen, eb, ben, ix, mem, cib, caban, eznab, canac, ahau。
 Haab历和Tzolkin历中的年都用数字0，1，……表示，数字0表示世界的开始。所以第一天被表示成： 
 Haab: 0. pop 0 
 Tzolkin: 1 imix 0 
-请帮助M.A. Ya教授写一个程序可以把Haab历转化成Tzolkin历。 
+请把Haab历转化成Tzolkin历。 
 
 Input
 Haab历中的数据由如下的方式表示： 

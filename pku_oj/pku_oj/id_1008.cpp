@@ -17,6 +17,7 @@ int main()
 		cin >> day >> c >> (int &)mon >> year;
 		cout << day << endl;
 		cout << mon;
+		cout << endl;
 
 	}
 
